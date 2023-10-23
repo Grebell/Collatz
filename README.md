@@ -6,11 +6,6 @@ The Collatz Conjecture is a famous unsolved mathematical problem named after Lot
     2. If the current number is odd, multiply it by 3 and add 1.
 The conjecture posits that, regardless of the initial positive integer chosen, this process will eventually reach 1 and continue in an endless loop of 4, 2, 1.
 
-
-How to display directions to use the program.
-
-Examples:
-
 ./project1 help
 
 ./project1 ?
