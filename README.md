@@ -1,7 +1,7 @@
 # Collatz
 Collatz Conjecture Calculator
 
-This program will calculate the sequence and stats for certain numbers applied to collatz
+This program will calculate the sequence and stats for numbers applied to collatz
 
 ./project1 help
 
