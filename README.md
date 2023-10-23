@@ -7,10 +7,12 @@ The Collatz Conjecture is a famous unsolved mathematical problem named after Lot
 The conjecture posits that, regardless of the initial positive integer chosen, this process will eventually reach 1 and continue in an endless loop of 4, 2, 1.
 
 
-how to display directions to use the program.
+How to display directions to use the program.
 
 Examples:
 
 ./project1 help
+
 ./project1 ?
+
 ./project1 -h
